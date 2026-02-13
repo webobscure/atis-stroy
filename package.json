@@ -5,7 +5,7 @@
   "dependencies": {
     "@material-ui/core": "^4.10.0",
     "@material-ui/icons": "^4.9.1",
-    "axios": "^0.19.2",
+    "axios": "^1.13.5",
     "bootstrap": "^4.5.0",
     "dayjs": "^1.8.27",
     "google-auth-library": "^6.0.0",
